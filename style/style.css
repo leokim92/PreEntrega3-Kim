@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    text-align: center;
+    text-decoration: none;
+    margin: 30px;
+}
+li a {
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    padding: 20px;
+}
+header {
+    background-color: rgb(176, 176, 52);
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+}
+h1 {
+    font-size: 35px;
+    color: black;
+}
+h2 {
+    color: black;
+}
+div {
+    display: flex;
+    align-items: end;
+    padding: 20px;
+    border-radius: 5px;
+  }
+.costo-total {
+    color: black;
+    font-size: 35px;
+}
+.card-text {
+    display: grid;
+}
+.botones {
+    padding: 30px;
+    gap: 20px;
+    font-size: 30px;
+}
+.registration {
+    text-align: center;
+}
+.bs-form-style {
+    background-color: white;
+    color: black;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 30px;
+}
+.mb-3 {
+    gap: 20px;
+}
+/* .regis-body {
+    background-color: black;
+} */
+
+.dias-renta {
+    padding: 8px;
+    font-size: 25px
+}
+.resta-renta {
+    padding: 8px;
+    font-size: 25px
+}
